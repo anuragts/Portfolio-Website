@@ -703,6 +703,7 @@ footer p span {
 }
 .banner {
   margin-bottom: 150px;
+  
 }
 .content a{
   text-decoration: none;
@@ -724,3 +725,6 @@ footer p span {
     color: #fff;
     text-decoration: none;
   }
+  /* .hero a{
+    margin-top: 50px;
+  } */
