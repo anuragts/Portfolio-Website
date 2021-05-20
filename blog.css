@@ -248,4 +248,9 @@ footer {
   footer p span {
     color: #dd9a05;
   }
+  .txt{
+    font-size: 5rem;
+    margin-left: 30vw;
+    margin-right: 30vw;
+  }
  
