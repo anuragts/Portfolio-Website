@@ -728,3 +728,13 @@ footer p span {
   /* .hero a{
     margin-top: 50px;
   } */
+  /* .nav-item:hover {
+    border-radius: 0.3rem;
+    background-color: #dd9a05;
+    
+    
+  } */
+  .hello :hover{
+    background-color: #dd9a05;
+
+}
