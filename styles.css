@@ -734,6 +734,9 @@ footer p span {
     
     
   } */
+  .hello{
+    padding-right: 10px;
+  }
   .hello :hover{
     background-color: #dd9a05;
 
